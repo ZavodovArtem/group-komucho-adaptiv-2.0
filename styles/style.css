@@ -380,6 +380,9 @@ body {
 .us__p {
     margin-top: 50px;
 }
+.us__p-next {
+    margin-bottom: 10px;
+}
 .us__p-style {
     font-family: var(--font-basic);
     font-style: normal;
@@ -1149,6 +1152,9 @@ body {
     .menu__description-left {
         width: 130px;
     }
+    .menu__name-phone {
+        margin-top: 50px;
+    }
     .delivery__p--style-right {
         font-size: 30px;
         line-height: 40px;
@@ -1161,6 +1167,10 @@ body {
         font-size: 16px;
         line-height: 16px;
     }
+    .delivery__name-phone {
+        margin-top: 50px;
+    }
+
     .us__photo {
         display: flex;
         justify-content: space-between;
@@ -1178,9 +1188,15 @@ body {
     .us__p {
         display: none;
     }
+    .us__p-next {
+        display: none;
+    }
     .us__photo-p {
         display: block;
         margin-left: 10px;
+    }
+    .us__name-phone {
+        margin-top: 50px;
     }
 
     .contacts__iframe {
@@ -1195,6 +1211,9 @@ body {
     }
     .contacts__p {
         font-size: 18px;
+    }
+    .contacts__name-phone {
+        margin-top: 50px;
     }
     .footer__full-phone a {
         font-size: 14px;
