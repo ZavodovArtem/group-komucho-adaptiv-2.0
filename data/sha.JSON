@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Шаурма со свининой",
+        "description-left": "Свинина, соус, капуста, томаты, огурцы, морковь  240 грамм",
+        "description-right": "180 Р.",
+        "img": "images/img-sha.svg"
+    },
+    {
+        "id": "2",
+        "name": "Шаурма с курицей",
+        "description-left": "Курица, соус, капуста, томаты, огурцы, морковь  240 грамм",
+        "description-right": "180 Р.",
+        "img": "images/sha-chiken.svg"
+    },
+    {
+        "id": "3",
+        "name": "Шаурма прованс",
+        "description-left": "Грибы Шампиньоны, соус, капуста, томаты, огурцы, морковь, руккола 240 грамм",
+        "description-right": "190 Р.",
+        "img": "images/sha-provans.svg"
+    },
+    {
+        "id": "4",
+        "name": "Шаурма два мяса",
+        "description-left": "Свинина, курица, соус, капуста, томаты, огурцы, морковь 240 грамм",
+        "description-right": "270 Р.",
+        "img": "images/sha-twomeat.svg"
+    },
+    {
+        "id": "5",
+        "name": "Хот-Дог",
+        "description-left": "Булочка, сосиска, лук фри, огурцы маринованные, горчица, кетчуп 240 грамм",
+        "description-right": "130 Р.",
+        "img": "images/hot-dog.svg"
+    }
+]

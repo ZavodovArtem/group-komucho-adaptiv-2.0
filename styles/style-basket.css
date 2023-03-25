@@ -1,0 +1,85 @@
+.basket__product {
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr ;
+}
+
+.menu__step {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu__stepdesc {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.btn__basket {
+    background-color: #150905;
+    width: 135px;
+    height: 40px;
+    font-family: var(--font-basic);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.03em;
+    /* color: var(--color-orange); */
+    transition: all ease 0.4s;
+}
+
+.basket__productt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn__basket:hover {
+    color: var(--color-orange);
+}
+.btn {
+    /* border-color: var(--txt-color-pink); */
+    transition: all ease 0.4s;
+}
+.btn:hover {
+    border-color: var(--color-orange);
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    user-select:none;
+}
+
+.counter__minus {
+    display: flex;
+    align-items: center;
+    width: 20px;
+    height: 30px;
+}
+
+.counter__plus {
+    display: flex;
+    align-items: center;
+    width: 20px;
+}
+
+
+.counter__input-input {
+    width: 50px;
+    height: 20px;
+    background-color: var(--color-night);
+    border-color: var(--txt-color-pink);
+    text-align: center;
+    color: var(--txt-color-pink);
+    border-radius: 6px;
+    margin: 10px;
+}
+
+.counter__input {
+    width: 30px;
+    text-align: center;
+}
